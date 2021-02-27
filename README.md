@@ -1,2 +1,8 @@
-# homework_1
-HTML/CSS
+# Title
+
+## Description
+
+## Screenshot
+
+## Link to the deployed application
+
