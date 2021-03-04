@@ -1,18 +1,26 @@
-# Title
+# Horiseon Project
 
-Added a concise but relevant and descriptive title
+## Project link
+
+Click [here] (Todo) to view project on Github pages.
 
 ## Description
 
-Segmented HtML page with semantic tags 
+## Task performed 
 
-Improved the accessibility of the images by adding alt attribute 
+* Segmented HtML page with semantic tags by adding tags
 
-Made sure all the links in the navigation bar were functioning 
+* Added a concise but relevant and descriptive title
 
-Rearranged the CSS styles in flow with the HTML layout
+* Improved the accessibility of the website by adding alt attribute to all image tags.
 
-Consolidated CSS styles to minimize repetition 
+* Made sure all the links in the navigation bar were functioning. 
+
+* Formatted code using lint (prettier). 
+
+* Rearranged CSS styles in flow with the HTML layout.
+
+* Consolidated CSS styles to minimize repetition 
 
 ## Screenshot
 
