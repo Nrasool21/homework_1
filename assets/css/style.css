@@ -78,7 +78,7 @@ a {
 }
 
 /*consolidated classes with same properties to minimize repetition */
-/*this style relates to the article of html page*/
+/*this style relates to the section of html page*/
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -91,20 +91,20 @@ a {
   color: #ffffff;
 }
 
-/*this relates to the styling of the image and header in the article of html page*/
-
 .search-engine-optimization img,
-.search-engine-optimization h2,
 .online-reputation-management img,
-.online-reputation-management h2,
-.social-media-marketing img,
-.social-media-marketing h2 {
+.social-media-marketing img {
   max-height: 200px;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-/*this style relates to the section of the html page*/
+/*this style relates to the aside of html page*/
 
 .benefits {
   margin-right: 20px;
@@ -118,18 +118,22 @@ a {
 }
 
 .benefit-lead,
-.benefit-lead h3,
-.benefit-lead img,
 .benefit-brand,
-.benefit-brand h3,
-.benefit-brand img,
-.benefit-cost,
-.benefit-cost h3,
-.benefit-cost img {
+.benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
+}
+
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
+}
+
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
@@ -143,7 +147,7 @@ a {
   text-align: center;
 }
 
-/* to follow the html sequential order of headers the font size here can be reduced to h4 */
+/* to follow the html sequential order of headers the font size here can be reduced to imitate h4 size */
 .footer h2 {
   font-size: 20px;
 }
