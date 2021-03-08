@@ -28,9 +28,9 @@ As a marketing agency we were tasked to refactor the webpage of Horiseon by addi
 
 ## Screenshots
 
-![Landing page of Horiseo post refactoring](homework_1_screenshot.png)
-![html page of Horiseo post refactoring](Screenshot_htmlpage.png)
-![stylesheet of Horiseo post refactoring](../Screenshot_css.png)
+![Landing page of Horiseo post refactoring](assets/images/screenshots/homework_1_screenshot.png)
+![html page of Horiseo post refactoring](assets/images/screenshots/Screenshot_htmlpage.png)
+![stylesheet of Horiseo post refactoring](assets/images/screenshots/Screenshot_css.png)
 
 ## Getting started
 
